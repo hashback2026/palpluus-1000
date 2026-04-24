@@ -1,0 +1,4 @@
+PORT=3000
+CONSUMER_KEY=YOUR_KEY
+CONSUMER_SECRET=YOUR_SECRET
+CALLBACK_URL=https://your-render-url.onrender.com/callback
